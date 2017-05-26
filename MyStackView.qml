@@ -6,6 +6,7 @@ Page {
     header: TabBar {
         id: bar
         width: parent.width
+
         TabButton {
             text: qsTr("Home")
         }
