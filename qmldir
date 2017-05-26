@@ -1,0 +1,3 @@
+module MyItems
+MyStackView 1.0 MyStackView.qml
+MyStackLayout 1.0 MyStackLayout.qml
